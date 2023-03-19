@@ -1,0 +1,1 @@
+This is the README of the MC322 class project directory
