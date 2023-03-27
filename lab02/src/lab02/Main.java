@@ -13,6 +13,7 @@ public class Main {
 		System.out.println("Is 5sdf148163sdf28ssfdfd33yesadadasd a valid cpf (acording to the pre-specifyed rules) and equal to the clliente_example cpf? "+cliente_example.validarCPF("5sdf148163sdf28ssfdfd33yesadadasd"));
 		System.out.println("Car model: " + veiculo_example.getMarca());
 		System.out.println("Sinistro submission date: " + sinistro_example.getData());
+		System.out.println("Sinistro Id: " + sinistro_example.getId());
 		System.out.println("Seguradora email: " + seguradora_example.getEmail());
 	}
 
